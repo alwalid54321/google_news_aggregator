@@ -7,7 +7,7 @@ import openai
 from GoogleNews import GoogleNews
 
 openai.api_key = 'your openai api'
-
+ 
 class Solution:
     def __init__(self):
         self.dx = [-1, 1, 0, 0]
