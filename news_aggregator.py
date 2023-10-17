@@ -8,6 +8,7 @@ from GoogleNews import GoogleNews
 
 
 
+
 openai.api_key = 'your openai api'
   
 class Solution:
